@@ -1,11 +1,11 @@
 # Site settings
 title: Sunha Ryu
-description: "Sunha's Cave"
+description: "Sunha's Blog"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://rainofpainki.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Sunha Ryu
-user_title: Sunha Ryu - PHP/Linux
+user_title: Sunha Ryu - WebDeveloper
 email: rainofpainki@naver.com
 github_username:  rainofpainki
 profile_picture: https://avatars3.githubusercontent.com/u/8243179?v=3&s=460
