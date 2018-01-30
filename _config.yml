@@ -36,12 +36,12 @@ links:
   # - title: about me
   #   url: /about
 # projects in header index
- projects:
-   - name: learning-python
-     url: https://github.com/rainofpainki/learning-python
-   - name: nodejs-study
-     url: https://github.com/rainofpainki/nodejs-study
-   - name: laravel-study
-     url: https://github.com/rainofpainki/laravel-study
+# projects:
+#   - name: asciilang
+#     url: https://github.com/victorvoid/asciilang
+#   - name: vim-frontend
+#     url: https://github.com/victorvoid/vim-frontend
+#   - name: generator-capybara
+#     url: https://github.com/victorvoid/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
