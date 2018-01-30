@@ -27,7 +27,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: posts
+  - title: my posts
     url: /posts
   # - title: series
   #   url: /series
