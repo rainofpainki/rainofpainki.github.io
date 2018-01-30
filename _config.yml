@@ -27,7 +27,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: my posts
+  - title: posts
     url: /posts
   # - title: series
   #   url: /series
@@ -35,7 +35,7 @@ links:
   #   url: /tags
   # - title: about me
   #   url: /about
- projects in header index
+# projects in header index
  projects:
    - name: learning-python
      url: https://github.com/rainofpainki/learning-python
