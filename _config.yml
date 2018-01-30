@@ -37,12 +37,12 @@ links:
   #   url: /about
 
 # projects in header index
- projects:
-   - name: "learning-python"
+projects:
+   - name: learning-python
      url: https://github.com/rainofpainki/learning-python
-   - name: "nodejs-study"
+   - name: nodejs-study
      url: https://github.com/rainofpainki/nodejs-study
-   - name: "laravel-study"
+   - name: laravel-study
      url: https://github.com/rainofpainki/laravel-study
 
 # exclude my node related stuff
