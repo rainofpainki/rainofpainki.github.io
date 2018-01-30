@@ -55,6 +55,7 @@ python3 -m venv venv(가상환경 이름)
 ```
 
 ### 1.2.3. Python3 venv 활성화
+
 ```sh
 . venv/bin/activate
 ```
@@ -62,32 +63,39 @@ python3 -m venv venv(가상환경 이름)
 ## 2.1. Selenium 및 크롤링 패키지 설치
 
 ### 2.2. pip update
+
 ```sh
 pip3 install --upgrade pip
 ```
 
 ### 2.3. pip 리스트 체크
+
 ```sh
 pip3 freeze
 ```
 
 ### 2.4. Request 설치
+
 ```sh
 pip3 install requests
 ```
 
 ### 2.5. BeautifulSoup4 설치
+
 ```sh
 pip3 install beautifulsoup4
 ```
 
 ### 2.6. Selenium 설치
+
 ```sh
 pip3 install selenium
 ```
 
 ### 2.7. Scrapy 설치
+
 > 크롤링 프레임워크인 Scrapy를 사용하고자 하는 경우에 설치한다.
+
 ```sh
 # 의존성 패키지 설치 (Docker 환경이면 sudo를 제외한다)
 sudo apt install libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev python3-dev gcc
@@ -97,6 +105,7 @@ pip3 install scrapy
 ```
 
 ### 3. PhantomJS 설치
+
 ```sh
 # 의존성 라이브러리 설치
 sudo apt install libfontconfig1 fonts-migmix
@@ -122,7 +131,9 @@ docker commit <컨테이너 ID> ubuntu-phantomjs
 ```
 
 이미지가 생성되면 다음 명령어를 실행해 컨테이너를 실행한다.
+
 > 환경변수의 LANG에 UTF-8이 설정되어 있어야 한다.
+
 ```sh
 docker run -i -t -v $HOME:$HOME \
 -e ko_KR.UTF-8 \
@@ -131,5 +142,6 @@ ubuntu-phantomjs /bin/bash
 ```
 
 # 3. 자료 출처
+
 - [프로그래머 미찐 티스토리 블로그](http://mizzhinp.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%B3%B4%EA%B8%B0-%EA%B9%A8%EC%A7%90%ED%98%84%EC%83%81)
 - [「파이썬을 이용한 머신러닝, 딥러닝 실전개발 입문」 위키북스 도서](http://wikibook.co.kr/python-machine-learning/)
