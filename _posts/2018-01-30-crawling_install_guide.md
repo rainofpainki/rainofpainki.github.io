@@ -131,5 +131,5 @@ ubuntu-phantomjs /bin/bash
 ```
 
 # 3. 자료 출처
-- [<프로그래머 미찐> 티스토리 블로그](http://mizzhinp.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%B3%B4%EA%B8%B0-%EA%B9%A8%EC%A7%90%ED%98%84%EC%83%81)
-- [<파이썬을 이용한 머신러닝, 딥러닝 실전개발 입문> 위키북스 도서](http://wikibook.co.kr/python-machine-learning/)
+- [프로그래머 미찐 티스토리 블로그](http://mizzhinp.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%B3%B4%EA%B8%B0-%EA%B9%A8%EC%A7%90%ED%98%84%EC%83%81)
+- [「파이썬을 이용한 머신러닝, 딥러닝 실전개발 입문」 위키북스 도서](http://wikibook.co.kr/python-machine-learning/)
