@@ -24,7 +24,7 @@ yum install zabbix-agent
 ```
 
 
-### 3. zabbix-agent 시작
+## 3. zabbix-agent 시작
 
 ```sh
 service zabbix-agent start
@@ -33,13 +33,13 @@ service zabbix-agent start
 chkconfig --level 345 zabbix-agent on
 ```
 
-### 4. 포트 확인
+## 4. 포트 확인
 
 ```sh
 netstat -tnlp | grep zabbix
 ```
 
-### 5. Agent 파일 설정
+## 5. Agent 파일 설정
 
 ```sh
 vi /etc/zabbix/zabbix_agentd.conf
@@ -52,7 +52,7 @@ Hostname=Zabbix Agent IP
 DebugLevel=4
 ```
 
-### 6. 수집 확인
+## 6. 수집 확인
 
 ```sh
 systemctl restart zabbix-agent
