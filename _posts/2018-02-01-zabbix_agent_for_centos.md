@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Zabbix agent for Centos6"
+title:  "How to install Zabbix agent for CentOS6"
 date:   2018-02-01 14:57:00 +0900
 categories: Linux Zabbix Zabbix-Server Zabbix-Agent Centos
 ---
