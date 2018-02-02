@@ -80,3 +80,11 @@ $ echo -e "\e[43;1;31mTEST\e[0m"
 ```
 
 ![사진2](https://raw.githubusercontent.com/rainofpainki/rainofpainki.github.io/master/assets/img/shell_text_color/02.PNG)
+
+
+## 6. 출처
+
+http://www.dreamy.pe.kr/zbxe/CodeClip/3765725
+
+http://norux.me/29
+
