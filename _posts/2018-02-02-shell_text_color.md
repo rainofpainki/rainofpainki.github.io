@@ -43,6 +43,9 @@ $ echo -e "\e[31mTEST\e[0m"
 # \033을 \e로 바꿔도 동일하게 동작한다.
 ```
 
+![사진1](https://raw.githubusercontent.com/rainofpainki/rainofpainki.github.io/master/assets/img/shell_text_color/01.PNG)
+
+
 위에서 보면 31 부분을 위의 표에서 원하는 색깔로 바꿔주면 된다. 글자를 굵게 하고 싶다면 1;31 과 같은 방식으로 사용하면 된다.
 
 \e[0m 을 하는 이유는 색깔을 원래대로 다시 돌려놓기 위해서이다. 
@@ -75,3 +78,5 @@ $ echo -e "\e[43;31mTEST\e[0m"
 # 배경 넣고 굵게
 $ echo -e "\e[43;1;31mTEST\e[0m"
 ```
+
+![사진2](https://raw.githubusercontent.com/rainofpainki/rainofpainki.github.io/master/assets/img/shell_text_color/02.PNG)
