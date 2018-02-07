@@ -17,10 +17,10 @@ MySQL에서는 테이블이 손상 되었는지 여부를 확인(`check`)하고,
 
 ```sql
 /* 체크할 Table이 속해있는 Database를 선택한다. */
-mysql> use [Database명];
+mysql> use `Database명`;
 
 /* Table의 손상 여부를 확인한다. */
-mysql> CHECK TABLE [Table명];
+mysql> CHECK TABLE `Table명`;
 
 ```
 
