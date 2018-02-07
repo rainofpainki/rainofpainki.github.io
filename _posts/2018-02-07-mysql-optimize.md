@@ -29,20 +29,20 @@ mysql> CHECK TABLE `Table명`;
 
 ```sql
 /* 복구할 Table이 속해있는 Database를 선택한다. */
-mysql> use [Database명];
+mysql> use `Database명`;
 
 /* 손상된 테이블을 복구한다. */
-mysql> REPAIR TABLE [Table명];
+mysql> REPAIR TABLE `Table명`;
 ```
 
 ## MySQL 특정 테이블 최적화(Optimize)
 
 ```sql
 /* 최적화할 Table이 속해있는 Database를 선택한다. */
-mysql> use [Database명];
+mysql> use `Database명`;
 
 /* 테이블을 최적화한다. */
-mysql> OPTIMIZE TABLE [Table명];
+mysql> OPTIMIZE TABLE `Table명`;
 ```
 
 ## 특정 데이터베이스의 모든 테이블 확인/복구
