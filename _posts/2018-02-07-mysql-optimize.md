@@ -15,7 +15,7 @@ MySQL에서는 테이블이 손상 되었는지 여부를 확인(`check`)하고,
 
 ## MySQL 특정 테이블 손상 여부 확인(Check)
 
-```
+```mysql
 /* 체크할 Table이 속해있는 Database를 선택한다. */
 mysql> use [Database명];
 
@@ -27,7 +27,7 @@ mysql> CHECK TABLE [Table명];
 
 ## MySQL 특정 테이블 복구(Repair)
 
-```
+```mysql
 /* 복구할 Table이 속해있는 Database를 선택한다. */
 mysql> use [Database명];
 
@@ -37,7 +37,7 @@ mysql> REPAIR TABLE [Table명];
 
 ## MySQL 특정 테이블 최적화(Optimize)
 
-```
+```mysql
 /* 최적화할 Table이 속해있는 Database를 선택한다. */
 mysql> use [Database명];
 
