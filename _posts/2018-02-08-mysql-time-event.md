@@ -21,7 +21,6 @@ SET GLOBAL event_scheduler = 1;
 SET @@global.event_scheduler = 1;
 ```
 
-
 ## EVENT 기본 SQL 문
 
 다음은 EVENT를 작성하는 기본 SQL문이다.
@@ -88,6 +87,7 @@ ON SCHEDULE
 위의 코드는 매일 03시에 admin DATABASE의 user_session 테이블의 모든 Row를 DELETE한다.
 
 더 자세한 출처는 [공식문서](https://dev.mysql.com/doc/refman/5.7/en/create-event.html)나 [출처](http://linuxism.tistory.com/854)를 참고하도록 하자.
+
 
 ## 출처
 
