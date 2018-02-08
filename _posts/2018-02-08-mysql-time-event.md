@@ -82,10 +82,10 @@ STARTS 와 ENDS를 통해 반복의 시작일시, 종료일시의 지정도 가�
 ```sql
 CREATE EVENT IF NOT EXISTS evt_sessionClean
 ON SCHEDULE 
-	EVERY 3 DAY_HOUR
-	COMMENT 'Clean up session at 03:00 daily'
-	DO
-		DELETE FROM admin.user_session;
+EVERY 3 DAY_HOUR
+COMMENT 'Clean up session at 03:00 daily'
+DO
+DELETE FROM admin.user_session;
 ```
 
 위의 코드는 매일 03시에 admin DATABASE의 user_session 테이블의 모든 Row를 DELETE한다.
