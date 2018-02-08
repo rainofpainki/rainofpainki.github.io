@@ -5,7 +5,7 @@ date:   2018-02-08 10:07:00 +0900
 categories: MySQL MariaDB Event TimeEvent Schedule
 ---
 
-# MySQL EVENT JOB 설정하기
+# MySQL EVENT SCHEDULE 설정하기
 
 MySQL 5.1.7 에서부터는 crontab+shell 을 사용하지 않고 시간별로 EVENT JOB을 설정할 수 있다.
 
