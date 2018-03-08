@@ -1,6 +1,6 @@
 # Site settings
-title: Sunha Ryu
-description: "Sunha's Blog"
+title: Code Everywhere
+description: "Code Everywhere"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://rainofpainki.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
