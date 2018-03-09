@@ -1,23 +1,26 @@
 <div class="search-wrapper">
 
-    <div class="search-form">
-        <input arial-label="Search for a post" type="text" class="search-field" placeholder="Search...">
-        <svg class="icon-remove-sign"><use xlink:href="#icon-close"></use></svg>
+    <!--<div class="search-form">-->
+        <!--<input arial-label="Search for a post" type="text" class="search-field" placeholder="Search...">-->
+        <!--<svg class="icon-remove-sign"><use xlink:href="#icon-close"></use></svg>-->
 
-        <ul class="search-results search-list"></ul>
+        <!--<ul class="search-results search-list"></ul>-->
+    <!--</div>-->
+    <div class="search-form">
+        <script>
+            (function() {
+                var cx = '016268363654363758983:p_xfri_jhnw';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+            })();
+        </script>
+        <gcse:search></gcse:search>
     </div>
-    <script>
-      (function() {
-          var cx = '016268363654363758983:p_xfri_jhnw';
-          var gcse = document.createElement('script');
-          gcse.type = 'text/javascript';
-          gcse.async = true;
-          gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(gcse, s);
-      })();
-    </script>
-    <gcse:search></gcse:search>
+
 </div>
 
 <!-- Menu Open -> Fade effect -->
