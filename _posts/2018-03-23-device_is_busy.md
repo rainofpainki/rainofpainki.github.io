@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "umount: device is busy"
-date:   2018-02-23 13:27:00 +0900
+date:   2018-02-23 13:47:00 +0900
 categories: Linux CentOS Ubuntu umount device_is_busy
 ---
 
@@ -10,11 +10,11 @@ categories: Linux CentOS Ubuntu umount device_is_busy
 mount된 디렉토리를 umount 를 할 시, 특정 프로세스&사용자가 해당 디렉토리를 사용하고 있다면 "device is busy" 메세지가 발생하며 umount가 되지 않는다.
 
 ```sh
-# umount /home/user1/data
+$ umount /home/user1/data
 umount: device is busy
 
 # 강제로 실행해볼까? 
-# umount -f /home/user1/data
+$ umount -f /home/user1/data
 umount: device is busy
 ```
 
@@ -23,7 +23,7 @@ umount: device is busy
 ## 디렉토리를 사용하는 프로세스를 강제로 죽이는 방법
 
 ```sh
-# fuser -ck /home/user1/data
+$ fuser -ck /home/user1/data
 # umount /home/user1/data
 ```
 

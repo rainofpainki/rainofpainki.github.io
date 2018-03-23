@@ -26,7 +26,7 @@ fuser 명령어는 특정 파일을 삭제하거나 특정 파일의 사용자, 
 1) 특정 파일이나 디렉토리를 사용하는 프로세스의 PID/사용자 를 확인할 때
 
 ```sh
-# fuser -u /usr/bin/php7.0
+$ fuser -u /usr/bin/php7.0
 
 /usr/bin/php7.0:      5723e(user1)  6627e(user2) 21109e(user3)
 ```
@@ -34,7 +34,7 @@ fuser 명령어는 특정 파일을 삭제하거나 특정 파일의 사용자, 
 2) 특정 파일이나 디렉토리를 사용하는 프로세스를 모두 죽일 때
 
 ```sh
-# fuser -k /usr/bin/php7.0
+$ fuser -k /usr/bin/php7.0
 
 # php7.0을 사용하는 모든 프로세스를 죽인다.
 ```
@@ -42,7 +42,7 @@ fuser 명령어는 특정 파일을 삭제하거나 특정 파일의 사용자, 
 3) 특정 파일이나 디렉토리를 사용하는 프로세스의 user/pid/접근 권한 등을 자세히 볼 때
 
 ```sh
-# fuser -v /usr/bin/php7.0
+$ fuser -v /usr/bin/php7.0
 
                      USER        PID ACCESS COMMAND
 /usr/bin/php7.0:     lunchbus   5723 ...e. php7.0
