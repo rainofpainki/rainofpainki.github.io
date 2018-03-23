@@ -61,4 +61,4 @@ $ fuser -v /usr/bin/php7.0
 
 ### 출처
 
-- [호스트웨이 서버운영가이드](http://faq.hostway.co.kr/Linux_ETC/4209)
+- [호스트웨이 서버운영가이드](http://faq.hostway.co.kr/Linux_ETC/1559)

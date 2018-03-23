@@ -36,4 +36,4 @@ $ fuser -ck /home/user1/data
 
 ### 출처
 
-- [호스트웨이 서버운영가이드](http://faq.hostway.co.kr/Linux_ETC/1559)
+- [호스트웨이 서버운영가이드](http://faq.hostway.co.kr/Linux_ETC/4209)
