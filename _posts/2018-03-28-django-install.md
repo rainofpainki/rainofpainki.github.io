@@ -113,3 +113,8 @@ __init__.py  settings.py  urls.py  wsgi.py
 ```
 
 설정 및 개발 서버 실행에 대한 부분은 다음에 포스팅할 예정이다.
+
+
+## 5. 출처
+
+> 에어콘 출판도서 : [장고 마스터하기](http://book.naver.com/bookdb/book_detail.nhn?bid=12722709)
