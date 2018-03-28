@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "umount: device is busy"
-date:   2018-02-23 13:47:00 +0900
+date:   2018-03-23 13:47:00 +0900
 categories: Linux CentOS Ubuntu umount device_is_busy
 ---
 
