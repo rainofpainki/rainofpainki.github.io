@@ -2,7 +2,10 @@
 layout: post
 title:  "How to color the text in Bash"
 date:   2018-02-02 14:15:00 +0900
-categories: Linux Bash Color Shell ShellScript
+tags: 
+-Linux 
+-Bash 
+-ShellScript
 ---
 
 # 리눅스 터미널에서 텍스트에 색깔 입히기
