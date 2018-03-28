@@ -29,10 +29,10 @@ links:
     url: /
   - title: my posts
     url: /posts
-  - title: about me
-    url: /about
   - title: tags
     url: /tags
+  - title: about me
+    url: /about
   # - title: series
   #   url: /series
 
