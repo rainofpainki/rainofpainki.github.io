@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux fuser command"
-date:   2018-03-c23 13:27:00 +0900
+date:   2018-03-23 13:27:00 +0900
 categories: Linux CentOS Ubuntu fuser
 ---
 
