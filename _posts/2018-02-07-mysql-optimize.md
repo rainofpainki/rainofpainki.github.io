@@ -2,7 +2,12 @@
 layout: post
 title:  "MySQL Check, Repair, Optimize"
 date:   2018-02-07 11:47:00 +0900
-categories: MySQL MariaDB Optimize Check Repair
+tags:
+- MySQL
+- MariaDB
+- Optimize
+- Check
+- Repair
 ---
 
 # MySQL Check, Repair, Optimize

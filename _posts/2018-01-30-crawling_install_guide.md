@@ -2,7 +2,11 @@
 layout: post
 title:  "How to install Selenium+PhantomJS"
 date:   2018-01-30 15:52:00 +0900
-categories: Python3 Selenium PhantomJS Docker
+tags:
+- Python
+- Selenium
+- PhantomJS
+- Docker
 ---
 # Python3 Selenium + PhantomJS 설치
 

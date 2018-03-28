@@ -2,7 +2,12 @@
 layout: post
 title:  "umount: device is busy"
 date:   2018-03-23 13:47:00 +0900
-categories: Linux CentOS Ubuntu umount device_is_busy
+tags:
+- Linux
+- CentOS
+- Ubuntu
+- umount
+- Device_is_busy
 ---
 
 # umount 할 때 device is busy 경고가 뜰 경우

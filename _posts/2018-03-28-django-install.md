@@ -2,7 +2,10 @@
 layout: post
 title:  "How to install Django in Windows"
 date:   2018-03-28 13:27:00 +0900
-categories: Django Python Windows
+tags:
+- Python
+- Django
+- Windows
 ---
 
 # 윈도우 환경에 파이썬, Django 설치하기

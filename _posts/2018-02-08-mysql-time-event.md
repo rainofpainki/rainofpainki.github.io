@@ -2,7 +2,11 @@
 layout: post
 title:  "MySQL Time Event Schedule"
 date:   2018-02-08 10:07:00 +0900
-categories: MySQL MariaDB Event TimeEvent Schedule
+tags:
+- MySQL
+- MariaDB
+- TimeEvent
+- TimeSchedule
 ---
 
 # MySQL EVENT SCHEDULE 설정하기

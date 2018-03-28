@@ -2,7 +2,10 @@
 layout: post
 title:  "How to install Zabbix agent for CentOS6"
 date:   2018-02-01 14:57:00 +0900
-categories: Linux Zabbix Zabbix-Server Zabbix-Agent Centos
+tags:
+- Linux
+- Zabbix
+- CentOS
 ---
 # 자빅스(Zabbix) 설치 for CentOS6
 

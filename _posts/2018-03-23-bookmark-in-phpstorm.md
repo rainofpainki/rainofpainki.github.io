@@ -2,7 +2,9 @@
 layout: post
 title:  "bookmark in PhpStorm"
 date:   2018-03-23 13:51:00 +0900
-categories: phpStorm Bookmark
+tags:
+- PhpStorm
+- Bookmark
 ---
 
 

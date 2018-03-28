@@ -31,10 +31,10 @@ links:
     url: /posts
   - title: about me
     url: /about
+  - title: tags
+    url: /tags
   # - title: series
   #   url: /series
-  # - title: tags
-#     url: /tags
 
 
 # projects in header index
