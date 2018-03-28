@@ -29,12 +29,13 @@ links:
     url: /
   - title: my posts
     url: /posts
+  - title: about me
+    url: /about
   # - title: series
   #   url: /series
   # - title: tags
-  #   url: /tags
-  # - title: about me
-  #   url: /about
+#     url: /tags
+
 
 # projects in header index
 projects:
