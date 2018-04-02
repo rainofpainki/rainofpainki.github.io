@@ -1750,7 +1750,7 @@ footer {
 
 footer p {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 800;
     font-style: normal;
     color: #fff;
     text-align: center;
@@ -1777,7 +1777,7 @@ footer p {
 }
 
 .light {
-    display: inline-block;
+    display: inline-block !important;
     padding-left: 0.2em;
     padding-right: 0.2em;
     animation: wiggle 1s ease 0s infinite;
