@@ -1093,7 +1093,7 @@ html, body {
         float: left;
         clear: none;
         text-align: inherit;
-        width: 69.1%;
+        /*width: 69.1%;*/
         margin-left: 0%;
         margin-right: 3%
     }
