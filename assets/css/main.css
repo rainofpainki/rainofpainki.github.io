@@ -1765,3 +1765,8 @@ footer p {
     text-align: center;
     color: #FFF;
 }
+
+.smile, .light {
+    animation: wiggle 1s ease 0s infinite;
+    animation-direction: alternate-reverse;
+}
