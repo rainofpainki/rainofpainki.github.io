@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Selenium+PhantomJS"
+title:  "Selenium, PhantomJS 설치"
 date:   2018-01-30 15:52:00 +0900
 tags:
 - Python

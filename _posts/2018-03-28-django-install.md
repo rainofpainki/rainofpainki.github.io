@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Django in Windows"
+title:  "윈도우에 Django 설치"
 date:   2018-03-28 13:27:00 +0900
 tags:
 - Python

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux fuser command"
+title:  "리눅스 fuser 명령어 사용법"
 date:   2018-03-23 13:27:00 +0900
 tags:
 - Linux

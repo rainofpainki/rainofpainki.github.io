@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bookmark in PhpStorm"
+title:  "PhpStorm 북마크/책갈피 사용법"
 date:   2018-03-23 13:51:00 +0900
 tags:
 - PhpStorm

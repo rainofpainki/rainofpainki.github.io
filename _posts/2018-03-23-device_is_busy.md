@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "umount: device is busy"
+title:  "umount: device is busy 오류 해결법"
 date:   2018-03-23 13:47:00 +0900
 tags:
 - Linux

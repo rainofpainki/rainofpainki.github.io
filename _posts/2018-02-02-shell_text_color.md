@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to color the text in Bash"
+title:  "Bash shell 텍스트에 색깔 입히기"
 date:   2018-02-02 14:15:00 +0900
 tags: 
 - Linux 
