@@ -1766,7 +1766,21 @@ footer p {
     color: #FFF;
 }
 
-.smile, .light {
+@keyframes wiggle {
+    from {
+        transform: rotateZ(-10deg) scaleY(1.8) scaleX(1.8);
+    }
+
+    to {
+        transform: rotateZ(5deg) scaleY(1.5) scaleX(1.5);
+    }
+}
+
+.light {
+    display: inline-block;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
     animation: wiggle 1s ease 0s infinite;
     animation-direction: alternate-reverse;
+    animation-duration: 0.5s;
 }
