@@ -131,6 +131,12 @@ Spark 에서는 연산 과정을 클러스터 전체에 걸쳐 자동으로 병�
 
 위의 예제를 통해 Spark 로컬 머신으로 변수에 RDD를 만들고 개수를 세거나 첫번째 아이템을 출력해보았다.
 
+## 5. Spark Dashboard 접속
+
+스파크 셸을 실행한 상태에서 `http://127.0.0.1:4040` 로 접속하면 Spark Dashboard를 웹으로 접속한다.
+
+해당 화면에서 실행 중인 Job 등 클러스터에 대한 모니터링이 가능하다.
+
 ## 출처
 
 - [O'REILLY Leaning Spark 도서](http://shop.oreilly.com/product/0636920028512.do)
@@ -138,3 +144,5 @@ Spark 에서는 연산 과정을 클러스터 전체에 걸쳐 자동으로 병�
 - https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/
 
 - https://stackoverflow.com/questions/34353556/spark-java-error-in-standalone-application
+
+- [조대협님의 블로그](http://bcho.tistory.com/1024)
