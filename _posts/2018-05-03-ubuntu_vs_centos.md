@@ -35,7 +35,7 @@ CentOS가 안정성이 뛰어나다고 하지만 `어떤 기술적인 면에서 
 
 Ubuntu Regular (정식 릴리즈) 의 경우 신규 출시한 버전은 9개월간 유지 관리가 된다.
 
-Ubuntu LTS (Long Term Support) 의 경우 Flavors[^1]를 제외하고 Ubuntu Desktop은 3년, Ubuntu Server는 5년 간 지원이 된다.
+Ubuntu LTS (Long Term Support) 의 경우 Flavors[^1] 를 제외하고 Ubuntu Desktop은 3년, Ubuntu Server는 5년 간 지원이 된다.
 
 릴리즈는 예정된 일정에 따라 약 6개월간 업데이트 된다.
 
@@ -69,4 +69,4 @@ Ubuntu LTS (Long Term Support) 의 경우 Flavors[^1]를 제외하고 Ubuntu Des
 
 5) https://www.quora.com/What-are-the-main-differences-between-CentOS-and-Ubuntu-Linux-operating-systems
 
-\[^1]: Ubuntu의 다양한 커스텀 버전. [이곳](https://wiki.ubuntu.com/UbuntuFlavors)을 참고하자.
+[^1]: Ubuntu의 다양한 커스텀 버전. [이곳](https://wiki.ubuntu.com/UbuntuFlavors)을 참고하자.
