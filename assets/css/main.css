@@ -1029,7 +1029,7 @@ html, body {
 
 .tree-posts h3 {
     /*color: #c06a64;*/
-    color: #ffffff;
+    color: #ab67ab;
     position: relative;
     margin: .625rem 0;
 }
@@ -1040,7 +1040,7 @@ html, body {
     height: 4px;
     position: absolute;
     bottom: 0;
-    background-color: #ffffff
+    background-color: #ab67ab
     /*background-color: #c06a64*/
 }
 
