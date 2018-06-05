@@ -1016,7 +1016,7 @@ html, body {
     width: 347px;
     height: 100%;
     position: fixed;
-    background-color: #2f2f33;
+    background-color: #2e263c;
     overflow-y: auto;
     top: 0;
 }
@@ -1028,7 +1028,8 @@ html, body {
 }
 
 .tree-posts h3 {
-    color: #c06a64;
+    /*color: #c06a64;*/
+    color: #ffffff;
     position: relative;
     margin: .625rem 0;
 }
@@ -1039,7 +1040,8 @@ html, body {
     height: 4px;
     position: absolute;
     bottom: 0;
-    background-color: #c06a64
+    background-color: #ffffff
+    /*background-color: #c06a64*/
 }
 
 .post-item {
@@ -1117,12 +1119,15 @@ html, body {
 }
 
 .post-item .content .post-title {
-    color: #c7b288;
+    /*color: #c7b288;*/
+    color: #ffffff;
     position: relative;
     padding: 0;
     font-size: 1rem;
     margin: 0;
     text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
 }
 
 .post-item .content .post-title.selected {
