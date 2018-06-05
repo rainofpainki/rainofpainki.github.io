@@ -1217,12 +1217,14 @@ html, body {
     color: #333;
 }
 
-.post-content p code, .post-content li code { /*color:#615576*/
-    color: #c7b288;
-    background-color: #2f2f33;
-    font-weight: bold;
+.post-content p code, .post-content li code {
+    /* color: #615576; */
+    color: #1a0031;
+    background-color: #e3e3fb;
+    /* font-weight: bold; */
     border-radius: 5px;
-    padding: 2px
+    padding: 2px;
+    font-family: sans-serif;
 }
 
 .post-content a {
