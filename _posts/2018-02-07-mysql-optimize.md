@@ -57,7 +57,7 @@ mysql> OPTIMIZE TABLE `Table명`;
 $ cd [MYSQL_Home]/bin
 
 # 해당 DB의 모든 테이블을 확인하고 복구한다.
-$ ./mysqlcehck -u [DB User] -p[DB Password] --auto-repair [Database명]
+$ ./mysqlcheck -u [DB User] -p[DB Password] --auto-repair [Database명]
 ```
 
 ## 특정 데이터베이스의 모든 테이블 최적화
@@ -67,7 +67,7 @@ $ ./mysqlcehck -u [DB User] -p[DB Password] --auto-repair [Database명]
 $ cd [MYSQL_Home]/bin
 
 # 해당 DB의 모든 테이블을 최적화한다.
-$ ./mysqlcehck -u [DB User] -p[DB Password] --optimize [Database명]
+$ ./mysqlcheck -u [DB User] -p[DB Password] --optimize [Database명]
 ```
 
 ## 자료 출처
