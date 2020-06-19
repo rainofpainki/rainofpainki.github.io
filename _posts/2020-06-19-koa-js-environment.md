@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows 환경에 Node.js / Koa.js / TypeScript 개발 환경 구성"
+title:  "Windows 10에 Node.js / Koa.js / TypeScript 개발 환경 설치"
 date:   2020-06-19 17:18:00 +0900
 tags:
 - Windows
