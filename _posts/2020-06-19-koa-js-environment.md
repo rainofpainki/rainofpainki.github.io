@@ -244,7 +244,7 @@ $ mysql -uroot -p
 
 ## 8.5. 사용자/데이터베이스 생성
 
-```mysql
+```bash
 CREATE USER 'rainofpainki'@'localhost' IDENTIFIED BY 'rainofpainki';
 GRANT USAGE ON *.* TO 'rainofpainki'@'localhost';
 FLUSH PRIVILEGES;
