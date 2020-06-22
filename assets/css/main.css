@@ -1790,3 +1790,7 @@ footer p {
     animation-direction: alternate-reverse;
     animation-duration: 0.5s;
 }
+
+h1.post-title {
+    text-align: center;
+}
