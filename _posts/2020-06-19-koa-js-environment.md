@@ -14,7 +14,7 @@ tags:
 # 1. NVM 설치
 ## 1.1. [다운로드](https://github.com/coreybutler/nvm-windows/releases)하여 설치
 ## 1.2. 시스템-환경변수(사용자변수-Path)에 추가 
-> ex) C:\Users\`rainofpainki`\AppData\Roaming\nvm 
+> ex) C:\Users\rainofpainki\AppData\Roaming\nvm 
 
 # 2. Node.js 설치
 ## 2.1. Windows Powershell 실행 *(관리자 권한으로 실행)*
