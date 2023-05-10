@@ -55,6 +55,8 @@ spring.datasource.separator = ^^^ END OF SCRIPT ^^^
 
 ## 2. schema.sql, data.sql 변경
 
+### 변경 전
+
 ```
 BEGIN
    EXECUTE IMMEDIATE 'DROP TABLE MY_TABLE';
@@ -67,6 +69,8 @@ END;
 
 CREATE TABLE MY_TABLE (ID NUMBER NOT NULL, NAME VARCHAR2(50) NOT NULL);
 ```
+
+### 변경 후
 
 ```
 BEGIN
