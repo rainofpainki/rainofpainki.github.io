@@ -13,7 +13,7 @@ tags:
 
 # 오류 내용
 
-Oracle Database 에서는 IF EXISTS 미지원으로 인하여 PL/SQL 블록을 이용하여 아래와 같이 처리할 수 밖에 없다.
+Spring Boot에서 schema.sql을 통해 초기 데이터베이스의 테이블 생성시, Oracle Database를 사용할 경우에는 IF EXISTS 미지원으로 인하여 PL/SQL 블록을 이용하여 아래와 같이 처리할 수 밖에 없다.
 
 ```sql
 -- MY_TABLE 테이블 삭제
@@ -41,7 +41,7 @@ Java 코드가 표시되지 않지만 schema.sql 실행시 ScriptUtil 의 메서
 
 ## 1. application.properties 에서 구분 기호 설정
 
-- Spring Boot 2.5.0 이상
+- Spring boot 2.5.0 이상
 
 ```
 spring.sql.init.separator = ^^^ END OF SCRIPT ^^^
