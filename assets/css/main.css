@@ -1794,3 +1794,7 @@ footer p {
 h1.post-title {
     text-align: center;
 }
+
+.post-content a > span {
+    display: inline-block;
+}
