@@ -1219,6 +1219,7 @@ html, body {
 
 .post-content p, .post-content li {
     color: #333;
+    word-break: break-all;
 }
 
 .post-content p code, .post-content li code {
