@@ -377,7 +377,7 @@ aside ul {
 aside #topmenu {
     background-color: #5d4d7a;
     border: 2px solid #5d4d7a;
-    *zoom: 1;
+    zoom: 1;
 }
 
 aside #topmenu:before, aside #topmenu:after {
@@ -390,7 +390,7 @@ aside #topmenu:after {
 }
 
 aside #topmenu ul {
-    *zoom: 1;
+    zoom: 1;
     float: left;
     clear: none;
     text-align: inherit;
@@ -414,7 +414,7 @@ aside #topmenu ul:last-child {
 
 @media only screen and (max-width: 1000px) {
     aside #topmenu ul {
-        *zoom: 1;
+        zoom: 1;
         float: left;
         clear: none;
         text-align: inherit;
@@ -438,7 +438,7 @@ aside #topmenu ul:last-child {
 }
 
 aside #topmenu ul:nth-child(2) {
-    *zoom: 1;
+    zoom: 1;
     float: left;
     clear: none;
     text-align: inherit;
@@ -872,7 +872,7 @@ html, body {
 }
 
 .header-site .recent {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 450px;
     float: none;
@@ -1051,7 +1051,7 @@ html, body {
 }
 
 .post-item .content {
-    *zoom: 1;
+    zoom: 1;
 }
 
 .post-item .content:before, .post-item .content:after {
@@ -1091,7 +1091,7 @@ html, body {
 
 @media only screen and (min-width: 37.5rem) {
     .post-item .content a {
-        *zoom: 1;
+        zoom: 1;
         float: left;
         clear: none;
         text-align: inherit;
@@ -1313,7 +1313,7 @@ html, body {
 }
 
 .post-content blockquote {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 45.625rem;
     float: none;
@@ -1356,7 +1356,7 @@ html, body {
 }
 
 .post-content hr {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 47.5rem;
     float: none;
@@ -1383,7 +1383,7 @@ html, body {
 }
 
 .share {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 800px;
     float: none;
@@ -1441,7 +1441,7 @@ table th, table td {
     font-style: normal;
     font-size: 2.25rem;
     margin-top: 3.75rem;
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 50rem;
     float: none;
@@ -1520,7 +1520,7 @@ pre {
 }
 
 pre code {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 50rem;
     float: none;
@@ -1722,7 +1722,7 @@ pre span {
 }
 
 .comments {
-    *zoom: 1;
+    zoom: 1;
     width: auto;
     max-width: 50rem;
     float: none;
