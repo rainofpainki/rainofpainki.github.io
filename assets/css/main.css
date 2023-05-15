@@ -1565,18 +1565,22 @@ pre span {
 }
 
 .highlight::-webkit-scrollbar {
-    width: 10px;
+    -webkit-appearance: none;
+}
+.highlight::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+.highlight::-webkit-scrollbar:horizontal {
+    height: 12px;
 }
 .highlight::-webkit-scrollbar-thumb {
-    background-color: #2f3542;
+    background-color: rgba(0, 0, 0, .5);
     border-radius: 10px;
-    background-clip: padding-box;
-    border: 2px solid transparent;
+    border: 2px solid #ffffff;
 }
 .highlight::-webkit-scrollbar-track {
-    background-color: grey;
     border-radius: 10px;
-    box-shadow: inset 0px 0px 5px white;
+    background-color: #ffffff;
 }
 
 .highlight .hll {
