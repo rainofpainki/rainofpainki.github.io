@@ -39,12 +39,10 @@ links:
 
 # projects in header index
 projects:
-   - name: flower-learning
-     url: https://github.com/phylliscoders/flower-learning
-   - name: learning-python
-     url: https://github.com/rainofpainki/learning-python
-   - name: nodejs-study
-     url: https://github.com/rainofpainki/nodejs-study
+   - name: BookFinder
+     url: https://github.com/newseoul/BookFinder
+   - name: hairsalon-api
+     url: https://github.com/rainofpainki/hairsalon-api
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
