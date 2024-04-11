@@ -13,7 +13,7 @@ profile_picture: https://avatars3.githubusercontent.com/u/8243179?v=3&s=460
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title
+permalink: /:title/
 
 
 # html minify
